@@ -42,9 +42,6 @@ The project is structured as follows:
 
 
 
-
-
-
 ## Setup Instructions 🚀
 ##### Create the file `mern/server/config.env` with your Atlas URI and the server port:
 ```
@@ -76,9 +73,6 @@ npm run build
 npm run build
 ```
 
-
----
-<br>
 
 ---
 <br>
